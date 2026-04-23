@@ -1,0 +1,6 @@
+requests
+anthropic
+streamlit
+pandas
+google-genai
+python-dotenv
