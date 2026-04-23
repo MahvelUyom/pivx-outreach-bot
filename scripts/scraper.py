@@ -8,6 +8,7 @@ def search_github_repos():
     queries = [
         'zero knowledge proof privacy',
         'zk-SNARKs payments',
+        'proof-of-stake privacy',
         'decentralized identity privacy',
         'private transactions blockchain'
     ]
